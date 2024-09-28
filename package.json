@@ -2,14 +2,11 @@
   "name": "midterm-project",
   "version": "1.0.0",
   "scripts": {
-    "build": "parcel build --https://genniesysbracia.github.io/NewYorktimes src/index.html",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "parcel serve src/index.html"
+    "build": "parcel build --public-url Genniesysbracia.github.io/NewYorkTimes src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "parcel": "2.12.0"
-  }
+  "description": ""
 }
