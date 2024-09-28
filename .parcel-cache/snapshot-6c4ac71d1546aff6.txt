@@ -1,25 +1,19 @@
-24
+18
 75C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\package.json133719883471775879 0
-78C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\docs\index.html133719880743777952 0
-73C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\.gitignore133719757534983628 0
-89C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\docs\index.5a74550a.js.map133719880743891972 0
+73C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\.gitignore133719885642632598 0
 66C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\src133719824710226818 1
-67C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\dist133719883617474256 1
+67C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\dist133719885989145012 1
+80C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\package-lock.json133719877517873486 0
 72C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\README.md133719880282048775 0
 74C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\src\idk.css133719728210970220 0
-67C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\docs133719880743911890 1
-80C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\package-lock.json133719877517873486 0
 77C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\src\index.html133719753706373608 0
 80C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\src\mainscript.js133719385869893166 0
 83C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\src\mediaqueries.css133719278257169140 0
 78C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\src\nytlogo.png133719382951972342 0
 76C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\src\script.js133719846301502136 0
 75C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\src\scrpt.js133719846379346338 0
-86C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\docs\index.330dff66.css133719880743787999 0
-90C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\docs\index.330dff66.css.map133719880743891972 0
-85C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\docs\index.5a74550a.js133719880743798007 0
-86C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\dist\index.330dff66.css133719883617220131 0
-90C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\dist\index.330dff66.css.map133719883617451118 0
-85C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\dist\index.5a74550a.js133719883617220131 0
-89C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\dist\index.5a74550a.js.map133719883617461120 0
-78C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\dist\index.html133719883617220131 0
+86C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\dist\index.330dff66.css133719885988874207 0
+90C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\dist\index.330dff66.css.map133719885989145012 0
+85C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\dist\index.5a74550a.js133719885988874207 0
+89C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\dist\index.5a74550a.js.map133719885989145012 0
+78C:\Users\levs0\OneDrive\Documents\Midterm-Project\NewYorkTimes\dist\index.html133719885988874207 0
