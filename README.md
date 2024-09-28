@@ -1,2 +1,3 @@
 # NewYorktimes
-New york times project
+New york times project 
+MIDTERM EXAM
